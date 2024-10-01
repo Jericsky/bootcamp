@@ -1,0 +1,200 @@
+#navbar {
+	background-color:#765C3D;
+}
+
+nav a {
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 500;
+line-height: 21.94px;
+color: #F2D2AE !important;
+}
+
+#landing {
+	background: linear-gradient(
+	rgba(0, 0, 0, 0.59),
+	rgba(0, 0, 0, 0.59)
+
+	),
+	url(./images/landing.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#landing h1 {
+	font-family: Montserrat;
+	font-size: 64px;
+	font-weight: 600;
+	text-align: left;
+	
+	top: 10px;
+	margin-bottom: 30px;
+
+
+
+}
+
+#landing p{
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: 400;
+	text-align: left;
+	
+	top: 166px;
+	left: 4px;
+
+
+}
+
+#landing button {
+	font-family: Montserrat;
+	font-weight: 700;
+	background-color: #eab676;
+}
+
+#aboutme h2 {
+	font-family: Montserrat;
+	font-size: 40px;
+	font-weight: 600;
+	color: #765C3D;
+
+
+}
+
+#aboutme p {
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: 400;
+	color: #765C3D;
+
+}
+
+#title-gallery {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48.76px;
+    color: rgba(118, 92, 61, 1);
+}
+
+.sub-title {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29.26px;
+    color: rgba(118, 92, 61, 1);
+} 
+
+.title-album {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48.76px;
+    color: rgba(118, 92, 61, 1);
+}
+
+.paragraph-album {
+    color: rgba(118, 92, 61, 1);
+}
+
+/* .c-item {
+    height: 400px;
+} */
+
+.box {
+    margin-bottom: 50px;
+}
+
+
+.c-item {
+    /* padding: 40px; */
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height / width * 100) */
+    overflow: hidden;
+}
+
+.c-img {
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-item img {
+    /* padding: 40px; */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+   body {
+         font-family: Arial, sans-serif;
+         margin: 0;
+         padding: 0;
+         background-color: #f7e7ce;
+       }
+       .contact-section {
+         display: flex;
+         flex-wrap: wrap;
+         width: 100%;
+         min-height: 100vh;
+       }
+       .image-container {
+         flex: 1 1 50%;
+         background-image: url("images/pexels-alex-fu-2479178\ 1.png");
+         background-size: cover;
+         background-position: center;
+         min-height: 50vh;
+       }
+       .form-container {
+         flex: 1 1 50%;
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         padding: 50px;
+         background-color: #f7e7ce;
+         color: #765c3d;
+       }
+       .form-group label {
+         font-weight: bold;
+         color: #765c3d;
+       }
+       .btn-submit {
+         background-color: #cbaf87;
+         color: white;
+         border: none;
+       }
+       .footer {
+         text-align: center;
+         padding: 10px;
+         background-color: #cbaf87;
+         color: white;
+
+         bottom: 0;
+         width: 100%;
+       }
+       .thank-you-message {
+         display: none;
+         text-align: center;
+         color: #765c3d;
+       }
+       .thank-you-message h2 {
+         font-size: 3rem;
+         color: #765c3d;
+       }
+       .thank-you-message p {
+         font-family: "Montserrat", sans-serif;
+         font-optical-sizing: auto;
+         font-weight: 400;
+         font-style: normal;
+         color: #765c3d;
+       }
+       .form-control {
+         color: #765c3d;
+       }

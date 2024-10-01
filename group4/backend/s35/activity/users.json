@@ -1,0 +1,51 @@
+[
+    {
+        "_id": "69d8e5k2n8b1b0mk1i9v1",
+        "firstName": "Emma",
+        "lastName": "Johnson",
+        "email": "emmmajohnson@gmail.com",
+        "password": "123456",
+        "isAdmin": true,
+        "mobileNumber": "+63 912 345 6789"
+    },
+
+    {
+        "_id": "69d8e5k2n8b1b0mk1i9v2",
+        "firstName": "Liam",
+        "lastName": "Smith",
+        "email": "liamsmith@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "mobileNumber": "+63 918 765 4321"
+    },
+
+    {
+        "_id": "69d8e5k2n8b1b0mk1i9v3",
+        "firstName": "Ava",
+        "lastName": "Williams",
+        "email": "avawilliams@gmail.com",
+        "password": "qwerty",
+        "isAdmin": false,
+        "mobileNumber": "+63 927 654 3210"
+    },
+
+    {
+        "_id": "69d8e5k2n8b1b0mk1i9v4",
+        "firstName": "Noah",
+        "lastName": "Brown",
+        "email": "noahbrown@gmail.com",
+        "password": "abc123",
+        "isAdmin": true,
+        "mobileNumber": "+63 922 345 6789"
+    },
+
+    {
+        "_id": "69d8e5k2n8b1b0mk1i9v5",
+        "firstName": "Olivia",
+        "lastName": "Davis",
+        "email": "oliviadavis@gmail.com",
+        "password": "password1",
+        "isAdmin": false,
+        "mobileNumber": "+63 939 876 5432"
+    }
+]

@@ -1,0 +1,29 @@
+Git Merge:
+
+1. Merge Request/ Pull Request = team member (assignee)
+2. Automatic = Create merge Request
+
+Before moving to the next merge request:
+1. Switch to main/master branch
+2. git pull origin
+
+Conflict:
+1. ONLY Step 1 (Multi line command copy paste)
+2. Code Editor (Vscode or sublime)
+ VSCODE = resolve merge
+ Sublime = Erase the head marks 
+ -> then apply all changes and spacing 
+3. Terminal
+	- git add .
+	- git merge --continue
+	- VIM -> to exit = :q
+	- git push -> git set-upstream
+4. Zuitt Git
+	- refresh
+	- create code commit = automatic
+
+Before moving to the next merge request:
+1. Switch to main/master branch
+2. git pull origin
+
+

@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#head-1 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+      
+}
+#head-2 {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+      
+}
+#head-3 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+      
+}
+#head-4 {
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+      
+}
+#head-5 {
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+      
+}
+#head-6 {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: italic
+      
+}
+#navMenu {
+    margin: 0;
+    padding: 10px 0;
+    box-sizing: border-box;
+    text-align: center;
+   list-style-type: none;
+   background-color: #b7d6e2;
+   color: white;
+   
+}
+
+nav li {
+    display: inline;
+    text-decoration: none;
+    margin: 0.5rem;
+    padding: 3px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+#landing {
+    background-image: url(https://img.freepik.com/free-photo/shopping-bag-cart_23-2148879372.jpg?t=st=1721634134~exp=1721637734~hmac=d4220d80d6eef6868cb3889aaf4689ef1b6e55fefe50acf7ecfef850ac2dc62a&w=2000);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 50vh;
+    color: white;
+}
+#landing h1 {
+    padding-top: 1rem;
+    font-size: 3rem;
+}
+
+#landing h3 {
+    margin: 1rem;
+}
+
+#landing button {
+    padding: 0.5rem;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+}
+#hot {
+	text-align: center;
+}
+
+#hot h2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#hot li {
+	display: inline-block;
+	list-style-type: none;
+	border: 2px solid #b7d6e2;
+	border-radius: 10px;
+	padding: 3rem;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	
+}

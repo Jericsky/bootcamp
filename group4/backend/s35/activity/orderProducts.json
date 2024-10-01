@@ -1,0 +1,17 @@
+{
+	"_id": "B460ft1zuitt",
+    "orderId": "B460ft2zuitt",
+    "productId": "B460ft3zuitt",
+    "quantity": 2,
+    "price": 99.00,
+    "subtotal": 198.00
+},
+
+{
+	"_id": "B460ft4zuitt",
+    "orderId": "B460ft5zuitt",
+    "productId": "B460ft6zuitt",
+    "quantity": 1,
+    "price": 200.00,
+    "subtotal": 200.00
+}

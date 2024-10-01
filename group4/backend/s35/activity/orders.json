@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "5f4e8b9f9f9f9f9f9f9f9f9f",
+        "userId": "69d8e5k2n8b1b0mk1i9v1",
+        "datetimeCreated": "2024-08-01T12:00:00Z",
+        "isPaid": true,
+        "total": 22000
+    },
+    {
+        "_id": "5f4e8b9f9f9f9f9f9f9f9f9g",
+        "userId": "69d8e5k2n8b1b0mk1i9v2",
+        "datetimeCreated": "2024-08-02T13:00:00Z",
+        "isPaid": false,
+        "total": 8000
+    },
+    {
+        "_id": "5f4e8b9f9f9f9f9f9f9f9f9h",
+        "userId": "69d8e5k2n8b1b0mk1i9v3",
+        "datetimeCreated": "2024-08-03T14:00:00Z",
+        "isPaid": true,
+        "total": 5000
+    },
+    {
+        "_id": "5f4e8b9f9f9f9f9f9f9f9f9i",
+        "userId": "69d8e5k2n8b1b0mk1i9v4",
+        "datetimeCreated": "2024-08-04T15:00:00Z",
+        "isPaid": false,
+        "total": 3000
+    },
+    {
+        "_id": "5f4e8b9f9f9f9f9f9f9f9f9j",
+        "userId": "69d8e5k2n8b1b0mk1i9v5",
+        "datetimeCreated": "2024-08-05T16:00:00Z",
+        "isPaid": true,
+        "total": 28000
+    }
+]

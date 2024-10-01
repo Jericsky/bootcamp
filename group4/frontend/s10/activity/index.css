@@ -1,0 +1,63 @@
+/* Universal selector to change font-family and font size of all elements */
+* {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+
+/* ID selector for the paragraph element with id "external" */
+#external {
+    color: yellow;
+}
+
+/* Type selector for h1 to change font size */
+h1 {
+    font-size: 3rem;
+}
+
+/* ID selector for h2 to transform text to uppercase */
+#sub-header {
+    text-transform: uppercase;
+}
+
+/* Class selector to change background color to green */
+.text-green {
+    background-color: green;
+}
+
+/* Class selector to change border color to blue */
+.blue-border {
+    border: 2px solid blue;
+}
+
+/* Adjacent sibling selector to remove list style */
+h4 + ul {
+    list-style-type: none;
+}
+
+/* Descendant selector to style image inside section */
+section img {
+    height: 20vh;
+    width: 20vh;
+    border-radius: 100px;
+}
+
+/* General sibling selector to center the last paragraph */
+ul ~ p {
+    text-align: center;
+}
+
+/* Child selector to change letter spacing of list items inside a section */
+section > ul > li {
+    letter-spacing: 10px;
+}
+h1 {
+    font-size: 3rem;
+}
+
+#sub-header {
+    text-transform: uppercase;
+}
+
+.text-green {
+    background: green;
+}

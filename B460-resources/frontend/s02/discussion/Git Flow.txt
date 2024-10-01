@@ -1,0 +1,22 @@
+Git Flow:
+
+git init - initialization
+
+git add .
+
+git commit -m "message"
+
+git remote add "ssh key"
+
+git push origin master/main
+
+
+To normal push:
+
+git status = checking of status
+
+git add . = add all updates
+
+git commit -m "insert message"
+
+git push origin master/main

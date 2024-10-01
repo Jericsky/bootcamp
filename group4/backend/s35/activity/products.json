@@ -1,0 +1,29 @@
+{
+    "_id": "66b4718d9ad95fa7d7a5f483",
+    "name": "Headset",
+    "description": "HyperX headset trimode",
+    "price": 8000,
+    "stocks": 1000,
+    "isActive": true,
+    "sku": "Hea/bla/rgb"
+}
+
+{
+    "_id": "66b472277d4cb090f4c98662",
+    "name": "Mouse",
+    "description": "razer wireless mouse trimode",
+    "price": 5000,
+    "stocks": 3000,
+    "isActive": true,
+    "sku": "mou/wir/mod/typ"
+}
+
+{
+    "_id": "66b472686a5674ebc5e433d8",
+    "name": "Keyboard",
+    "description": "RK TKL mechanical keyboard",
+    "price": 3000,
+    "stocks": 0,
+    "isActive": false,
+    "sku": "key/mec/hot/rgb"
+}
